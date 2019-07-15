@@ -23,7 +23,7 @@ You can change the configuration based on your preference
 
 ### Default Configuration
 ```
-config.retryDelay = 50; \\ retry after 50ms if a image doenload fails
+config.retryDelay = 50; \\ retry after 50ms if a image download fails
 config.maxAttempts = 100; \\ retry max 100 times
 config.batchSize = 10; \\ when downloading all chapters make a batch of 10 chapters
 config.batchDelay = 3000; \\ After each batch wait 3s.
