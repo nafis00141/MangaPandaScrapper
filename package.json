@@ -1,0 +1,17 @@
+{
+  "name": "mangapandascrapper",
+  "version": "1.0.0",
+  "description": "Download MangaPanda manga chapter directly to your desktop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nafis Islam",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "command-line-args": "^5.1.1",
+    "request": "^2.88.0",
+    "requestretry": "^4.0.0"
+  }
+}
