@@ -1,5 +1,5 @@
 # MangaPanda Scrapper
-A simple tool to download manga from mangapanda.com
+A simple tool to download manga from `mangapanda.com`
 
 ## Installation
 Just clone this repo and do `npm install`.
